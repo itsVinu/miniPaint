@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="canavasContetDescription">Mini Paint is a simple lie drawing app.
+    Drag your fingers to draw. Rotate the phone to clear.   </string>
+</resources>
